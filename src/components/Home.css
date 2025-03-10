@@ -1,0 +1,9 @@
+.nav{
+    background-color: aqua;
+    height: 9vh;
+    display: grid;
+    grid-column: 2;
+}
+.navbar img{
+    height: 8vh;
+}
